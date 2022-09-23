@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="lblNome">Nome:</string>
+    <string name="txtNome">Digite o nome aqui</string>
+
+    <string name="lblEndereco">Endereço</string>
+    <string name="txtEndereco">Digite o seu endereço</string>
+
+    <string name="lblBairro">Bairro:</string>
+    <string name="txtBairro">Digite seu bairro aqui</string>
+
+    <string name="lblCep">CEP:</string>
+    <string name="txtCep">12345-678</string>
+
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
